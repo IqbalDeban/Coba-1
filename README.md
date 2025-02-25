@@ -1,2 +1,2 @@
-# Coba-1
+# Proyek Magang 1
 Quran
